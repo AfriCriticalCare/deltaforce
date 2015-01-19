@@ -1,6 +1,0 @@
-#!/bin/bash
-
-#This scripts tests ADSL accounts from a valid DSL line#
-
-ssh -l root syb3r1us.afrihost.co.za -p2222 < commands.sh
-
